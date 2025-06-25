@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about Python and C++
 
 ## 📫 How to reach me: 
-- [LinkedIn](www.linkedin.com/in/jake-casserly-654095207)
+- [LinkedIn](https://www.linkedin.com/in/jake-casserly-654095207)
 - [Gmail](mailto:casserlj@tcd.ie)
 
 ## ✨ Experience:
