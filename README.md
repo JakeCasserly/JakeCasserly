@@ -15,6 +15,7 @@
 
 ## 🚀 Projects:
 
+- ✨ [DOOM Port for Wear OS]([Github](https://github.com/JakeCasserly/DOOM_WearOS)): A port of the classic DOOM (1993) to Wear OS for use on an android smartwatch
 - 🛠️ [AI for Code Review and Security]([Github](https://gitlab.scss.tcd.ie/sweng25_group23_CodeReviewSecurity/sweng25_group_23_ibm)): A tool for developers to perform code analysis, code completion, code generation and code translation
 - 🕹️ [Code-Ed]: An interactive game to help teach coding to primary school children
 - 🔧 [Python --> C++ conversion of Pure_Pursuit]: Converted 800+ lines of python code into C++ to work in ROS2 framework using CMake
