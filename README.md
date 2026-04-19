@@ -9,7 +9,7 @@
 
 ## ✨ Experience:
 
-- 🏎️ Control Team Lead at Formula Trinity: Helped lead a departement of 5 people to compete in competition at Silverstone
+- 🏎️ Autonomous team captain at Formula Trinity: Leading a team of 30 people to compete in the FS-AI DDT class at the FSUK competition in Silverstone, England.
 - ⚡ Patch Participant: Helped a team of 5 make a functional robotic dog
 - 🏆 Harvard online business school CORe: Successfully completed the CORe programe as part of harvard business school online
 
