@@ -36,3 +36,10 @@
 <br />![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
 <br />
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+ 
+<p align="center">
+<a href="https://github.com/JakeCasserly">
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=JakeCasserly&show_icons=true&include_all_commits=true&theme=react&hide_border=true&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" /></a>
+&nbsp;&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JakeCasserly&show_icons=true&include_all_commits=true&theme=react&hide_border=true&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+</p>
